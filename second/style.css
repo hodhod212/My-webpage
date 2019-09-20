@@ -1,0 +1,23 @@
+img{
+    width:130px;
+    float:left;
+   
+}
+
+   
+h3{
+    color: #08fe95;
+}
+p{
+    color: #542974;
+}
+div{
+    display: block;
+   
+}
+a{
+    display: flex;
+}
+.header, .interface{
+    text-align: center;
+}
